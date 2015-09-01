@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "AttendanceTracker"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-AttendanceTracker-2f579ea1-6f74-4ccb-82cd-04b76ac0dcb1;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
